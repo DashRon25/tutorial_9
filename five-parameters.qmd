@@ -14,3 +14,4 @@ library(primer.data)
 
 ```
 
+Using a dataset that lists various information for candidates between 1945 and 2012, we seek to find whether sex affects how long candidates live after a location.
